@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Transform defined to code Failed cases Pass {} should throw error 1`] = `"Path received type is object not is a string"`;
+
+exports[`Transform defined to code Failed cases Pass {} should throw error 2`] = `"Path received type is object not is a string"`;
+
+exports[`Transform defined to code Failed cases Pass 1 should throw error 1`] = `"Path received type is number not is a string"`;
+
+exports[`Transform defined to code Failed cases Pass null should throw error 1`] = `"Path received type is object not is a string"`;
+
+exports[`Transform defined to code Failed cases Pass undefined should throw error 1`] = `"Path received type is undefined not is a string"`;
+
+exports[`Transform defined to code Failed cases Pass undefined should throw error 2`] = `"Path received type is function not is a string"`;
+
+exports[`Transform defined to code Success cases 1`] = `"self.version = \\"__version__\\";self.platform = \\"__platform__\\";"`;

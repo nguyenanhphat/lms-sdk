@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Hash results 0 data is undefined and length is 8 1`] = `"f37915eb"`;
+
+exports[`Hash results 1 data is undefined and length is 40 1`] = `"f37915eb309934523ea382b273385b7149ad8901"`;
+
+exports[`Hash results 2 data is "_string_" and length is 8 1`] = `"c88967fe"`;
+
+exports[`Hash results 3 data is "_string_" and length is 40 1`] = `"c88967feb5cdee67db8bb31cf8d2bbdb3dab85ec"`;
+
+exports[`Hash results 4 data is 123 and length is 8 1`] = `"40bd0015"`;
+
+exports[`Hash results 5 data is 123 and length is 40 1`] = `"40bd001563085fc35165329ea1ff5c5ecbdbbeef"`;
+
+exports[`Hash results 6 data is null and length is 8 1`] = `"da39a3ee"`;
+
+exports[`Hash results 7 data is null and length is 40 1`] = `"da39a3ee5e6b4b0d3255bfef95601890afd80709"`;
+
+exports[`Hash results 8 data is undefined and length is 8 1`] = `"da39a3ee"`;
+
+exports[`Hash results 9 data is undefined and length is 40 1`] = `"da39a3ee5e6b4b0d3255bfef95601890afd80709"`;
+
+exports[`Hash results 10 data is {} and length is 8 1`] = `"7a9bef36"`;
+
+exports[`Hash results 11 data is {} and length is 40 1`] = `"7a9bef369f832c4b882484374116148b56c22275"`;
+
+exports[`Hash results 12 data is {} and length is 8 1`] = `"115ffd94"`;
+
+exports[`Hash results 13 data is {} and length is 40 1`] = `"115ffd9461c04205ac37a36815ebfe549f10f081"`;
+
+exports[`Hash results 14 data is {} and length is 8 1`] = `"bf21a9e8"`;
+
+exports[`Hash results 15 data is {} and length is 8 1`] = `"bf21a9e8"`;
+
+exports[`Hash results 16 data is {"k1":"v1","k2":123,"k4":null} and length is 40 1`] = `"3e427965f679f53ac0b402d64c3ede4bf3519ea6"`;
+
+exports[`Hash results 17 data is {"k1":"v1","k2":123,"k4":null} and length is 40 1`] = `"3e427965f679f53ac0b402d64c3ede4bf3519ea6"`;
+
+exports[`Hash results 18 data is ["v1",123,null,null,null] and length is 8 1`] = `"b13ae3c3"`;
+
+exports[`Hash results 19 data is ["v1",123,null,null,null] and length is 40 1`] = `"b13ae3c3c693317f033ed95c9ce61afaae27c585"`;

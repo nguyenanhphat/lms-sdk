@@ -1,0 +1,91 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Transform is code Type is "empty" 1`] = `
+"
+  \\"use strict\\";
+  Object.defineProperty(exports, \\"__esModule\\", {
+      value: true
+  });
+  exports.default = \\"\\";
+"
+`;
+
+exports[`Transform is code Type is "function" 1`] = `
+"
+  \\"use strict\\";
+  Object.defineProperty(exports, \\"__esModule\\", {
+      value: true
+  });
+  exports.default = function() {};
+"
+`;
+
+exports[`Transform is code Type is "map" 1`] = `
+"
+  \\"use strict\\";
+  Object.defineProperty(exports, \\"__esModule\\", {
+      value: true
+  });
+  exports.default = {};
+"
+`;
+
+exports[`Transform is code Type is "number" 1`] = `
+"
+  \\"use strict\\";
+  Object.defineProperty(exports, \\"__esModule\\", {
+      value: true
+  });
+  exports.default = 123;
+"
+`;
+
+exports[`Transform is code Type is "object" 1`] = `
+"
+  \\"use strict\\";
+  Object.defineProperty(exports, \\"__esModule\\", {
+      value: true
+  });
+  exports.default = {\\"key\\":\\"value\\"};
+"
+`;
+
+exports[`Transform is code Type is "set" 1`] = `
+"
+  \\"use strict\\";
+  Object.defineProperty(exports, \\"__esModule\\", {
+      value: true
+  });
+  exports.default = {};
+"
+`;
+
+exports[`Transform is code Type is "string" 1`] = `
+"
+  \\"use strict\\";
+  Object.defineProperty(exports, \\"__esModule\\", {
+      value: true
+  });
+  exports.default = \\"__string__\\";
+"
+`;
+
+exports[`Transform is code Type is null 1`] = `
+"
+  \\"use strict\\";
+  Object.defineProperty(exports, \\"__esModule\\", {
+      value: true
+  });
+  exports.default = null;
+"
+`;
+
+exports[`Transform is code Type is undefined 1`] = `
+"
+  \\"use strict\\";
+  Object.defineProperty(exports, \\"__esModule\\", {
+      value: true
+  });
+  exports.default = undefined;
+"
+`;

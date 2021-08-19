@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "removeComments": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "target": "es6",
+    "sourceMap": true,
+    "esModuleInterop": true,
+    "declaration": true,
+    "declarationDir": "./build/typings",
+    "baseUrl": "./",
+    "outDir": "build",
+    "skipLibCheck": true,
+    "importHelpers": true,
+    "resolveJsonModule": true,
+    "pretty": false
+  },
+  "files": ["src/interfaces/node.interface.ts"],
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "**/*.test.ts", "**/*.spec.ts"]
+}
